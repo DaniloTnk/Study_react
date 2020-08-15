@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './styles.css'
 
 // Using a stateless component the code bellow show it like an object.
 
