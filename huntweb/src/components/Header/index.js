@@ -9,8 +9,6 @@ import React from 'react';
 // 	}
 // }
 
-const Header = () = (
-  <h1>Hello</h1>
-);
+const Header = () => <header id="main-header">JSHunt</header>;
 
-export default
+export default Header;
